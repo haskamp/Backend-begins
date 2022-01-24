@@ -1,3 +1,4 @@
 {
-  "name": "backend-begins"
+  "name": "backend-begins",
+  "type": "module"
 }
