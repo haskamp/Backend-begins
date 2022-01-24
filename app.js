@@ -2,5 +2,5 @@ import {writeFile} from "fs/promises";
 
 console.log("Hello World");
 
-writeFile("foo", "bar");
-writeFile("hello.JSON", {x: "5", y:"10"} );
+writeFile("foo.txt", "bar");
+writeFile("hello.json", JSON.stringify({x: "5", y:"10"}, null, 4 ));

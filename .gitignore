@@ -1,4 +1,5 @@
 .idea
 nodemodules
 .DS_Store
-foo
+foo.txt
+hello.json
